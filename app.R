@@ -22,11 +22,7 @@ ui <- fluidPage(
                         "Number of bins:",
                         min = 1,
                         max = 65,
-<<<<<<< HEAD
                         value = 40)
-=======
-                        value = 1)
->>>>>>> a5d299bdae44d7a8e100413ff55f02492b56b32f
         ),
 
         # Show a plot of the generated distribution
