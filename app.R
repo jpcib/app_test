@@ -11,8 +11,8 @@ ui <- fluidPage(
       sliderInput("bins",
                   "Número de bins:",
                   min = 1,
-                  max = 65,
-                  value = 40),
+                  max = 50,
+                  value = 30),
       
       sliderInput("range",
                   "Rango de tiempos de espera:",
